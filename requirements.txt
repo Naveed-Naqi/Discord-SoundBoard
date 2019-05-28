@@ -1,0 +1,6 @@
+git+https://github.com/Rapptz/discord.py
+asyncio
+youtube_dl
+PyNaCl
+opuslib
+discord.py[voice]
